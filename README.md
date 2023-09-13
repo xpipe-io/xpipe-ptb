@@ -30,11 +30,11 @@ Installing the PTB release works just as with the regular releases. You can also
 The script supports installation via `apt`, `rpm`, and `pacman` on Linux, plus a `.pkg` install on macOS:
 
 ```
-bash <(curl -sL https://raw.githubusercontent.com/xpipe-io/xpipe-ptb/master/get-xpipe.sh) -s
+bash <(curl -sL https://raw.githubusercontent.com/xpipe-io/xpipe/master/get-xpipe.sh) -s
 ```
 
 ##### Windows
 
 ```
-powershell -ExecutionPolicy Bypass -Command iwr "https://raw.githubusercontent.com/xpipe-io/xpipe-ptb/master/get-xpipe.ps1" -OutFile "$env:TEMP\get-xpipe.ps1" ";"  "&" "$env:TEMP\get-xpipe.ps1" -UseStageDownloads
+powershell -ExecutionPolicy Bypass -Command iwr "https://raw.githubusercontent.com/xpipe-io/xpipe/master/get-xpipe.ps1" -OutFile "$env:TEMP\get-xpipe.ps1" ";"  "&" "$env:TEMP\get-xpipe.ps1" -UseStageDownloads
 ```
