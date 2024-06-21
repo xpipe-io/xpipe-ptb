@@ -22,6 +22,7 @@ Installing the PTB release works just as with the regular releases. You can also
 
 - [Windows .zip Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-windows-x86_64.zip)
 - [Linux .tar.gz Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-linux-x86_64.tar.gz)
+- [Linux .AppImage Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-linux-x86_64.AppImage)
 - [MacOS .dmg Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-macos-x86_64.dmg)
 - [MacOS .dmg Portable (ARM 64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-macos-arm64.dmg)
 
