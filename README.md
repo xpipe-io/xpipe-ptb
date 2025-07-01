@@ -7,11 +7,16 @@ The regular releases and PTB releases are designed to not interfere with each ot
 They have different IDs/package names/bundle names/installation directories/configuration directories and do not interfere with each other in any way.
 
 The primary goal of the PTB is to gather early feedback for new features and fixes before they hit the main releases.
-These builds are not as thoroughly tested yet, so they might be more unstable than the regular releases.
+These builds are not as thoroughly tested yet, so they will be more unstable than the regular releases.
+There is no fixed timeline on when the PTB branch will be merged, it will be promoted once sufficient testing has been done.
+
+PTB builds do not import your existing connections from the normal releases as the goal is to achieve a good testing coverage.
+An import functionality would result in some workflows, e.g. the creation of new connections, not being commonly tested.
 
 ## Installation
 
-Installing the PTB release works just as with the regular releases. You can also use the built-in updating functionality to upgrade a PTB build to the next in case you are already using the installer distribution.
+Installing the PTB release works just as with the regular releases. You can also use the built-in updating functionality to upgrade a PTB build to the next one if you are using the installer distribution.
+Since there will be frequent updates, using the installers is therefore recommended.
 
 ### Installers
 
@@ -40,6 +45,8 @@ There is an official [AUR package](https://aur.archlinux.org/packages/xpipe-ptb)
 You can also use [Homebrew](https://github.com/xpipe-io/homebrew-tap) to install the PTB with `brew install --cask xpipe-io/tap/xpipe-ptb`.
 
 ### Install Script
+
+For a quick and convenient installation, you can use these scripts.
 
 #####  Linux / MacOS
 
