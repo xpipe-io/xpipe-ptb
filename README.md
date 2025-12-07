@@ -24,7 +24,6 @@ Since there will be frequent updates, using the installers is therefore recommen
 - [Windows .msi Installer (ARM 64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-installer-windows-arm64.msi)
 - [Linux .deb Installer (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-installer-linux-x86_64.deb)
 - [Linux .rpm Installer (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-installer-linux-x86_64.rpm)
-- [MacOS .pkg Installer (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-installer-macos-x86_64.pkg)
 - [MacOS .pkg Installer (ARM 64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-installer-macos-arm64.pkg)
 
 ### Portable
@@ -33,7 +32,6 @@ Since there will be frequent updates, using the installers is therefore recommen
 - [Windows .zip Portable (ARM 64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-windows-arm64.zip)
 - [Linux .tar.gz Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-linux-x86_64.tar.gz)
 - [Linux .AppImage Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-linux-x86_64.AppImage)
-- [MacOS .dmg Portable (x86-64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-macos-x86_64.dmg)
 - [MacOS .dmg Portable (ARM 64)](https://github.com/xpipe-io/xpipe-ptb/releases/latest/download/xpipe-portable-macos-arm64.dmg)
 
 ### Arch
