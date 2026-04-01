@@ -10,13 +10,18 @@ The primary goal of the PTB is to gather early feedback for new features and fix
 These builds are not as thoroughly tested yet, so they will be more unstable than the regular releases.
 There is no fixed timeline on when the PTB branch will be merged, it will be promoted once sufficient testing has been done.
 
-PTB builds do not import your existing connections from the normal releases as the goal is to achieve a good testing coverage.
-An import functionality would result in some workflows, e.g. the creation of new connections, not being commonly tested.
+By default, the PTB do not import your existing connections from the normal releases as the goal is to achieve a good testing coverage.
+If you however really want to use a PTB on your normal XPipe data, you can do so in the workspaces menu:
+
+<img width="1126" height="447" alt="image" src="https://github.com/user-attachments/assets/171e11c5-7246-4958-b3eb-91094a9bc318" />
+
 
 ## Installation
 
 Installing the PTB release works just as with the regular releases. You can also use the built-in updating functionality to upgrade a PTB build to the next one if you are using the installer distribution.
 Since there will be frequent updates, using the installers is therefore recommended.
+
+**Note that XPipe PTB is a separate application with separate executables, desktop shortcuts, and application entries.**
 
 ### Installers
 
